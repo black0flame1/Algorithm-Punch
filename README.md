@@ -17,6 +17,6 @@
 先规划出一周内要学习的内容，按时打卡，计算完成度
 
 Example：
-- Day01 
+- [Day01](https://github.com/Yggdrasill-7C9/Algorithm-Punch/blob/master/src/day01/README.md) 
   - [x] 了解拓扑排序原理
   - [ ] 代码实现
