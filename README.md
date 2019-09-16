@@ -2,7 +2,7 @@
   每日打卡，记录自己算法与数据结构的学习心得
   
   每个人可以用自己名字拼音首字母作为分支名记录自己的学习笔记
-  ![](https://github.com/Yggdrasill-7C9/Algorithm-Punch/blob/master/imgs/QRCode.jpeg?raw=true)
+ 
   
 ## 学习资料
 - [数据结构与算法之美-王争](https://time.geekbang.org/column/intro/126)
@@ -26,3 +26,5 @@ Example：
 
 ## License
 MIT
+
+![](https://github.com/Yggdrasill-7C9/Algorithm-Punch/blob/master/imgs/QRCode.jpeg)
