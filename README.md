@@ -20,3 +20,6 @@ Example：
 - [Day01](https://github.com/Yggdrasill-7C9/Algorithm-Punch/blob/master/src/day01/README.md) 
   - [x] 了解拓扑排序原理
   - [ ] 代码实现
+
+## License
+MIT
