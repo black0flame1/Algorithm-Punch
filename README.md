@@ -16,6 +16,23 @@
 - [麻省-线性代数公开课](https://www.youtube.com/watch?v=YeznlKTrpmU&list=PL6839449936471E0C)
 - [慕课网-专为程序员设计的公开课](https://www.youtube.com/watch?v=_e0YDqn_V1U&list=PLSKUOdPqiSdt12cbA3Vz3APLUyOdn165h)
 
+## 学习工具
+
+- [数据结构和算法动态可视化](https://visualgo.net/zh)
+- [算法可视化](https://www.cs.usfca.edu/~galles/visualization/)
+- [algomation](http://www.algomation.com/)
+- [](https://algorithm-visualizer.org/)
+- [整数数列搜索引擎](https://oeis.org/)
+- [实数反查表达式，专治不明常数](https://tio.run/#)
+- [简单在线跑 600+ 种语言的代码，兹磁 IO 交互，超时 60s，可以分享代码]()
+- [可以用来分享代码](https://paste.ubuntu.com/)
+- [提供一些 OJ 题目的调试辅助](https://www.udebug.com/)
+- [提供 C++ 内语法的查询等](https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5)
+- [图论画板](https://csacademy.com/app/graph_editor/)
+
+
+
+
 ## 学习计划
 先规划出一周内要学习的内容，按时打卡，计算完成度
 
