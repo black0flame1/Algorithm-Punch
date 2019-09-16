@@ -21,7 +21,7 @@
 - [数据结构和算法动态可视化](https://visualgo.net/zh)
 - [算法可视化](https://www.cs.usfca.edu/~galles/visualization/)
 - [algomation](http://www.algomation.com/)
-- [](https://algorithm-visualizer.org/)
+- [algorithm-visualizer](https://algorithm-visualizer.org/)
 - [整数数列搜索引擎](https://oeis.org/)
 - [实数反查表达式，专治不明常数](https://tio.run/#)
 - [简单在线跑 600+ 种语言的代码，兹磁 IO 交互，超时 60s，可以分享代码]()
@@ -32,14 +32,25 @@
 
 
 
-
 ## 学习计划
 先规划出一周内要学习的内容，按时打卡，计算完成度
 
-Example：
 - [Day01](https://github.com/Yggdrasill-7C9/Algorithm-Punch/blob/master/src/day01/README.md) 
-  - [x] 了解拓扑排序原理
-  - [ ] 代码实现
+  - [x] LaTeX 
+  - [ ] 图的基本概念（有向图，无向图）
+  - [ ] DFS 与 BFS
+  - [ ] 树上问题
+  - [ ] 拓扑排序
+  - [ ] 书上问题
+  - [ ] 最小生成树
+  - [ ] 最小树图形
+  - [ ] k 短路
+  - [ ] 欧拉图
+  - [ ] 哈密顿图
+  - [ ] 二分图
+  - [ ] 最小环
+  - [ ] 图的着色
+
 
 ## License
 MIT
